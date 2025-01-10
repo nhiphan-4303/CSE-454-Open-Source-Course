@@ -1,0 +1,138 @@
+- Kernel: cái nhân, thư mục tập trung nhiều lệnh
+- Daemons: service chạy nền, chạy ngầm, cùng quá trình khởi động hoặc không, nên cẩn hận với tiến trình bitlocker
+- Gaphical server: dùng để chạy giao diện
+- Linux hầu như ko bao h bị nhiễm virus, malware, slow downs, crashes, costly repairs,...
+- Môi trường lý tưởng, chi phí rẻ
+- sudo apt-get íntall
+- su yum install
+
+- Lệnh:
+	+ tìm mình đang ở đâu, displays the shell session’s current directory location:
+pwd
+	+ list content, list the files and folders within a directory
+ls [Options] [directory]
+		✓ -a: all
+		✓ -l: long list format
+	• Note: ls -l -a = ls -la
+	+ Chuyển thư mục
+		cd
+		E.g.,
+		✓cd ~: navigate to your home directory
+		✓cd /home
+		✓cd ..
+	+ Tạo 1 thư mục
+mkdir [Options] folder_name
+-p: make parent directories as needed
+• E.g.:
+✓mkdir dir1
+✓mkdir dir1 dir2 dir3
+✓mkdir /tmp/tutorial
+✓mkdir -p /home/giau/test_2/cse454
+* bị denied thì đánh thêm sudo
++ Tạo file
+• Syntax 1: touch file_name
+E.g.: touch file1
+• Syntax 2: echo “Contens” > file_name
+echo "content" : in ra màn hình
+✓E.g.: echo “Lower case” > a.txt: append
+✓E.g.: echo “Upper case” >> a.txt: append
+
++ Copy files / directories
+• Syntax: cp [OPTIONs] Source[s] destination - cp -r-i: có thể copy đc nhiều files
+• Option:
+✓-i: prompt before overwrite - rất quan trọng khi copy
+✓-R or -r: copy directories recursively -
++ Tạo link
+A link is a placeholder in a directory that points to the real location of the file
+• Two types:
+✓A symbolic link: ln -s Target [Directory]
+simply a physical file that points to another file somewhere
+✓A hard link: ln Target [Directory]
+creates a separate virtual file that contains information about the original file and where to locate it
+xài nhiều:
+/utc/ngix/ .Site-availabled
+/utc/ngĩ/ .Site-enabled
+
++ Rename or move file
+• Renaming file is called moving file
+• The mv command is available to move both files and directories to another location or a new name
+• Syntax: mv [Options] Source[s] Dest
+• E.g.:
+✓Move: mv combined.txt dir1
+✓Rename: mv backup_combined.txt combined_backup.txt
+
++ Xóa : lệnh này chỉ xóa được thư mục rỗng
+Syntax: rm [options] Dest
+• The shell has no recycle bin or trashcan
+• Options:
+✓If removing lots of files and don’t want to be bothered with the prompt, use the -f parameter to force the removal
+✓-i: prompt before every removal
+✓-r, -R: remove directories and their contents recursively
+✓-d: remove empty directories
+rm r *: xóa hết
+
++ View the whole file
+• Syntax: cat [options] file_name
+✓Option:
+-n: numbers all the lines
+✓For large files, the text in the file just quickly scrolls off the display without stopping
+• Syntax: more [option] file_name
+✓Options:
+-: the number of lines per screenful - chỉ hiển thị số lượng dòng sau -
++: display file beginning from line number - hiển thị từ dòng + trở đi
+
++ Nano Editor
+▪ To open an existing file or to create a new file, type:
+nano file_name
+▪ At the bottom of the window, there is a list of the most basic command shortcuts
+▪ All commands are prefixed with either ^ or M character
+• The caret symbol (^) represents the Ctrl key
+• The letter M represents the Alt key
+▪ For example:
+• Ctrl + o: to save changes
+• Ctrl + x: to exit nano
+• Ctrl + g: to get a list of all commands
+
++Basic commands
+
++ Output redirection
+• The most basic type of redirection is sending output from a command to a file
+command > outputfile
+• Use >> to append output from a command to an existing file
+data >> outputfile
+
++ Input redirection
+Takes the content of a file and redirects it to a command
+• command < inputfile
+• E.g.: wc < test6
+
++ Pipes
+• Send the output of one command to the input of another command
+✓ls > list.txt
+✓sort < list.txt
+• The pipe is put between the commands to redirect the output from one to the other
+✓command1 | command2
+✓E.g.: ls | sort
+• There’s no limit to the number of pipes you can use in a command
+E.g.: ls | sort | more
+
++ ping command
+• Send ICMP ECHO_REQUEST to a network host
+• Syntax: ping [Options] dest
+• Options:
+✓-c count: stop after sending count ECHO_REQUEST packets
+✓-i : seconds between sending each packet
+✓-s : use as number of data bytes to be sent
+• E.g.: ping google.com
+▪ Use ifconfig –a to display all interfaces which are currently available, even if down
+
++ grep command
+• Search for PATTERN in each FILE
+• Syntax: grep [OPTIONs] PATTERN [FILEs]
+• Options:
+✓-i: ignore case distinctions
+✓-w: force PATTERN to match only whole words
+✓-x: force PATTERN to match only whole lines
+✓-n: print line number with output lines
+• E.g.: grep -i ‘hello world’ menu.h main.c
+

@@ -1,0 +1,1662 @@
+# Copyright (C) 2018 WEN Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Education Hub Pro 2.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-10 08:03:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WEN Themes <info@wenthemes.com>\n"
+"Language-Team: \n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../education-hub-pro\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:42
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:43
+msgid "Quick Links Menu"
+msgstr ""
+
+#: functions.php:44
+msgid "404 Menu"
+msgstr ""
+
+#: functions.php:130 inc/support/woocommerce.php:168
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:132
+msgid "Add widgets here to appear in your Primary Sidebar."
+msgstr ""
+
+#: functions.php:139 inc/support/woocommerce.php:186
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:141
+msgid "Add widgets here to appear in your Secondary Sidebar."
+msgstr ""
+
+#: functions.php:148
+msgid "Front Page Widget Area"
+msgstr ""
+
+#: functions.php:150 functions.php:159
+msgid "Add widgets here to appear in your Front Page."
+msgstr ""
+
+#: functions.php:157
+msgid "Front Page Lower Widget Area"
+msgstr ""
+
+#: functions.php:166 functions.php:174 functions.php:182 functions.php:190
+msgid "Extra Sidebar %d"
+msgstr ""
+
+#: functions.php:232
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:233
+msgid "collapse child menu"
+msgstr ""
+
+#: inc/customizer/color.php:24
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/color.php:70
+msgid "Reset Color Options"
+msgstr ""
+
+#: inc/customizer/color.php:71
+msgid ""
+"Caution: All color settings will be reset to default. Refresh the page "
+"after save to view full effects."
+msgstr ""
+
+#: inc/customizer/color.php:88
+msgid "Reset Color Settings"
+msgstr ""
+
+#: inc/customizer/default.php:30
+msgid "Notice:"
+msgstr ""
+
+#: inc/customizer/default.php:31
+msgid "Welcome to our university!"
+msgstr ""
+
+#: inc/customizer/default.php:37
+msgid "Quick Links"
+msgstr ""
+
+#: inc/customizer/default.php:42
+msgid "Search..."
+msgstr ""
+
+#: inc/customizer/default.php:56
+msgid "News"
+msgstr ""
+
+#: inc/customizer/default.php:60
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/default.php:62
+msgid "Events"
+msgstr ""
+
+#: inc/customizer/default.php:78
+msgid "Copyright &copy; [the-year] [the-site-link]. All rights reserved."
+msgstr ""
+
+#: inc/customizer/default.php:79
+msgid "Education Hub Pro by "
+msgstr ""
+
+#: inc/customizer/default.php:85
+msgid "Read More ..."
+msgstr ""
+
+#: inc/customizer/featured-content.php:13
+msgid "Featured Content"
+msgstr ""
+
+#: inc/customizer/featured-content.php:22
+msgid "Featured Content Type"
+msgstr ""
+
+#: inc/customizer/featured-content.php:39
+msgid "Enable Featured Content"
+msgstr ""
+
+#: inc/customizer/featured-content.php:58
+msgid "No of Blocks"
+msgstr ""
+
+#: inc/customizer/featured-content.php:59
+msgid "Enter number between 1 and 4. Save and refresh the page if No is changed. "
+msgstr ""
+
+#: inc/customizer/featured-content.php:78
+msgid "Select Type"
+msgstr ""
+
+#: inc/customizer/featured-content.php:101 inc/customizer/slider.php:99
+msgid "Featured Page"
+msgstr ""
+
+#: inc/customizer/featured-content.php:123 inc/customizer/slider.php:121
+msgid "Featured Post"
+msgstr ""
+
+#: inc/customizer/featured-content.php:124
+msgid "Enter Post ID"
+msgstr ""
+
+#: inc/customizer/font.php:20
+msgid "Font Family Options"
+msgstr ""
+
+#: inc/customizer/font.php:59
+msgid "Reset Font Settings"
+msgstr ""
+
+#: inc/customizer/font.php:60
+msgid "Refresh the page after save to view full effects."
+msgstr ""
+
+#: inc/customizer/option.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/option.php:22
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/option.php:41
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/option.php:59
+msgid "Show Site Title"
+msgstr ""
+
+#: inc/customizer/option.php:75
+msgid "Show Tagline"
+msgstr ""
+
+#: inc/customizer/option.php:93
+msgid "Contact Number"
+msgstr ""
+
+#: inc/customizer/option.php:109
+msgid "Contact Email"
+msgstr ""
+
+#: inc/customizer/option.php:125
+msgid "Show Notice"
+msgstr ""
+
+#: inc/customizer/option.php:141
+msgid "Notice Title"
+msgstr ""
+
+#: inc/customizer/option.php:158
+msgid "Notice Type"
+msgstr ""
+
+#: inc/customizer/option.php:176
+msgid "Notice Text"
+msgstr ""
+
+#: inc/customizer/option.php:193
+msgid "Notice URL"
+msgstr ""
+
+#: inc/customizer/option.php:211
+msgid "Notice Category"
+msgstr ""
+
+#: inc/customizer/option.php:230
+msgid "Number of Notices"
+msgstr ""
+
+#: inc/customizer/option.php:249
+msgid "Show Social Icons"
+msgstr ""
+
+#: inc/customizer/option.php:266
+msgid "Show Quick Links"
+msgstr ""
+
+#: inc/customizer/option.php:267
+msgid "Quick Links are displayed in the right of the top bar."
+msgstr ""
+
+#: inc/customizer/option.php:283
+msgid "Quick Links Text"
+msgstr ""
+
+#: inc/customizer/option.php:300
+msgid "Show Search Form"
+msgstr ""
+
+#: inc/customizer/option.php:301
+msgid "Check this to display search form."
+msgstr ""
+
+#: inc/customizer/option.php:317
+msgid "Make Primary Menu Sticky"
+msgstr ""
+
+#: inc/customizer/option.php:318
+msgid "Check this for sticky Primary Menu."
+msgstr ""
+
+#: inc/customizer/option.php:328
+msgid "Search Options"
+msgstr ""
+
+#: inc/customizer/option.php:345
+msgid "Search Placeholder"
+msgstr ""
+
+#: inc/customizer/option.php:355
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/option.php:372
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/option.php:389
+msgid "Global Layout"
+msgstr ""
+
+#: inc/customizer/option.php:406
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/option.php:423
+msgid "Image in Archive"
+msgstr ""
+
+#: inc/customizer/option.php:440
+msgid "Image Alignment in Archive"
+msgstr ""
+
+#: inc/customizer/option.php:457
+msgid "Image in Single Post/Page"
+msgstr ""
+
+#: inc/customizer/option.php:474
+msgid "Image Alignment in Single Post/Page"
+msgstr ""
+
+#: inc/customizer/option.php:484
+msgid "Home Page Options"
+msgstr ""
+
+#: inc/customizer/option.php:500
+msgid "Show Home Content"
+msgstr ""
+
+#: inc/customizer/option.php:501
+msgid "Check this to show page content in Home page."
+msgstr ""
+
+#: inc/customizer/option.php:517
+msgid "Enable News Section"
+msgstr ""
+
+#: inc/customizer/option.php:533
+msgid "News Section Title"
+msgstr ""
+
+#: inc/customizer/option.php:551
+msgid "News Category"
+msgstr ""
+
+#: inc/customizer/option.php:569
+msgid "No. of News Posts"
+msgstr ""
+
+#: inc/customizer/option.php:587
+msgid "News Post Excerpt Length"
+msgstr ""
+
+#: inc/customizer/option.php:605
+msgid "News Post Read More Text"
+msgstr ""
+
+#: inc/customizer/option.php:622
+msgid "Enable Events Section"
+msgstr ""
+
+#: inc/customizer/option.php:638
+msgid "Events Section Title"
+msgstr ""
+
+#: inc/customizer/option.php:656
+msgid "Events Category"
+msgstr ""
+
+#: inc/customizer/option.php:674
+msgid "No. of Events Posts"
+msgstr ""
+
+#: inc/customizer/option.php:692
+msgid "Events Post Excerpt Length"
+msgstr ""
+
+#: inc/customizer/option.php:704
+msgid "Pagination Options"
+msgstr ""
+
+#: inc/customizer/option.php:721
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/option.php:722
+msgid "Numeric: Requires %1$sWP-PageNavi%2$s plugin"
+msgstr ""
+
+#: inc/customizer/option.php:722
+msgid "Infinite Scroll: Requires %1$sJetPack - Infinite Scroll%2$s plugin"
+msgstr ""
+
+#: inc/customizer/option.php:733
+msgid "Content Meta Options"
+msgstr ""
+
+#: inc/customizer/option.php:750
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/option.php:767
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/option.php:784
+msgid "Show Categories"
+msgstr ""
+
+#: inc/customizer/option.php:801
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/option.php:818
+msgid "Show Comment"
+msgstr ""
+
+#: inc/customizer/option.php:828
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/option.php:845
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/option.php:861
+msgid "Powered By Text"
+msgstr ""
+
+#: inc/customizer/option.php:878
+msgid "Reset Footer Content"
+msgstr ""
+
+#: inc/customizer/option.php:894
+msgid "Show Go To Top"
+msgstr ""
+
+#: inc/customizer/option.php:904
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer/option.php:921
+msgid "Excerpt Length (words)"
+msgstr ""
+
+#: inc/customizer/option.php:922
+msgid "Default is 40 words"
+msgstr ""
+
+#: inc/customizer/option.php:939
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/option.php:956
+msgid "Exclude Categories in Blog"
+msgstr ""
+
+#: inc/customizer/option.php:957
+msgid ""
+"Enter category ID to exclude in Blog Page. Separate with comma if more than "
+"one."
+msgstr ""
+
+#: inc/customizer/option.php:967
+msgid "Author Bio Options"
+msgstr ""
+
+#: inc/customizer/option.php:968
+msgid "Author Box will be displayed in the single post article."
+msgstr ""
+
+#: inc/customizer/option.php:984
+msgid "Show Author Bio"
+msgstr ""
+
+#: inc/customizer/option.php:1000
+msgid "Show Recent Posts by Author in Bio"
+msgstr ""
+
+#: inc/customizer/option.php:1018
+msgid "No of Recent Posts"
+msgstr ""
+
+#: inc/customizer/option.php:1030
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer/option.php:1047
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: inc/customizer/option.php:1048
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin"
+msgstr ""
+
+#: inc/customizer/option.php:1065
+msgid "Separator"
+msgstr ""
+
+#: inc/customizer/option.php:1077
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/customizer/option.php:1095
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/reset.php:11
+msgid "Reset All Theme Settings"
+msgstr ""
+
+#: inc/customizer/reset.php:12
+msgid ""
+"Caution: All theme settings will be reset to default. Refresh the page "
+"after save to view full effects."
+msgstr ""
+
+#: inc/customizer/reset.php:25
+msgid "Check to reset all settings"
+msgstr ""
+
+#: inc/customizer/slider.php:13
+msgid "Featured Slider"
+msgstr ""
+
+#: inc/customizer/slider.php:22
+msgid "Slider Type"
+msgstr ""
+
+#: inc/customizer/slider.php:39
+msgid "Enable Slider On"
+msgstr ""
+
+#: inc/customizer/slider.php:56
+msgid "Select Slider Type"
+msgstr ""
+
+#: inc/customizer/slider.php:75
+msgid "No of Slides"
+msgstr ""
+
+#: inc/customizer/slider.php:76
+msgid ""
+"Enter number between 1 and 20. Save and refresh the page if No of Slides is "
+"changed. "
+msgstr ""
+
+#: inc/customizer/slider.php:145
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/slider.php:164
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/slider.php:182
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/slider.php:199
+msgid "Caption"
+msgstr ""
+
+#: inc/customizer/slider.php:216
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/slider.php:238
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/slider.php:257
+msgid "Select Tag"
+msgstr ""
+
+#: inc/customizer/slider.php:270
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer/slider.php:287
+msgid "Transition Effect"
+msgstr ""
+
+#: inc/customizer/slider.php:304
+msgid "Transition Delay"
+msgstr ""
+
+#: inc/customizer/slider.php:305 inc/customizer/slider.php:323
+msgid "In second(s)"
+msgstr ""
+
+#: inc/customizer/slider.php:322
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/customizer/slider.php:340
+msgid "Enable Caption"
+msgstr ""
+
+#: inc/customizer/slider.php:356
+msgid "Enable Arrow"
+msgstr ""
+
+#: inc/customizer/slider.php:372
+msgid "Enable Pager"
+msgstr ""
+
+#: inc/customizer/slider.php:388 inc/widgets.php:431
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/helper/common.php:60 inc/helper/common.php:61
+msgid "Archive for <em>%s</em>"
+msgstr ""
+
+#: inc/helper/common.php:62
+msgid "Search results for: <em>%s</em>"
+msgstr ""
+
+#: inc/helper/common.php:63
+msgid "Posts tagged <em>%s</em>"
+msgstr ""
+
+#: inc/helper/common.php:64
+msgid "View all posts by <em>%s</em>"
+msgstr ""
+
+#: inc/helper/common.php:65
+msgid "Error 404"
+msgstr ""
+
+#: inc/helper/common.php:183
+msgid "Page"
+msgstr ""
+
+#: inc/helper/custom.php:194
+msgid "Home"
+msgstr ""
+
+#: inc/helper/options.php:20
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/helper/options.php:21
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/helper/options.php:22
+msgid "Three Columns ( Secondary - Content - Primary )"
+msgstr ""
+
+#: inc/helper/options.php:23
+msgid "Three Columns ( Primary - Content - Secondary )"
+msgstr ""
+
+#: inc/helper/options.php:24
+msgid "Three Columns ( Content - Primary - Secondary )"
+msgstr ""
+
+#: inc/helper/options.php:25
+msgid "Three Columns ( Primary - Secondary - Content )"
+msgstr ""
+
+#: inc/helper/options.php:26
+msgid "Three Columns ( Equal Primary - Content - Secondary )"
+msgstr ""
+
+#: inc/helper/options.php:27
+msgid "Three Columns ( Equal Secondary - Content - Primary )"
+msgstr ""
+
+#: inc/helper/options.php:28
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/helper/options.php:50
+msgid "Fluid"
+msgstr ""
+
+#: inc/helper/options.php:51
+msgid "Boxed"
+msgstr ""
+
+#: inc/helper/options.php:104
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: inc/helper/options.php:105
+msgid "Numeric"
+msgstr ""
+
+#: inc/helper/options.php:106
+msgid "Infinite Scroll - Scroll"
+msgstr ""
+
+#: inc/helper/options.php:107
+msgid "Infinite Scroll - Click"
+msgstr ""
+
+#: inc/helper/options.php:128 inc/helper/options.php:281
+#: inc/helper/options.php:306
+msgid "Disabled"
+msgstr ""
+
+#: inc/helper/options.php:129
+msgid "Simple"
+msgstr ""
+
+#: inc/helper/options.php:130
+msgid "Advanced"
+msgstr ""
+
+#: inc/helper/options.php:151
+msgid "Full Post"
+msgstr ""
+
+#: inc/helper/options.php:152
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/helper/options.php:181
+msgid "No Image"
+msgstr ""
+
+#: inc/helper/options.php:183
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/helper/options.php:184
+msgid "Medium"
+msgstr ""
+
+#: inc/helper/options.php:185
+msgid "Large"
+msgstr ""
+
+#: inc/helper/options.php:186
+msgid "Full (original)"
+msgstr ""
+
+#: inc/helper/options.php:279
+msgid "Home Page / Front Page"
+msgstr ""
+
+#: inc/helper/options.php:280
+msgid "Entire Site"
+msgstr ""
+
+#: inc/helper/options.php:305
+msgid "Home Page Only"
+msgstr ""
+
+#: inc/helper/options.php:330 inc/helper/options.php:358
+msgid "Featured Pages"
+msgstr ""
+
+#: inc/helper/options.php:331
+msgid "Featured Category"
+msgstr ""
+
+#: inc/helper/options.php:332 inc/helper/options.php:359
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/helper/options.php:333
+msgid "Featured Images"
+msgstr ""
+
+#: inc/helper/options.php:334
+msgid "Featured Tag"
+msgstr ""
+
+#: inc/helper/options.php:360
+msgid "Demo Content"
+msgstr ""
+
+#: inc/helper/options.php:384
+msgid "Static"
+msgstr ""
+
+#: inc/helper/options.php:385
+msgid "Dynamic"
+msgstr ""
+
+#: inc/helper/options.php:408
+msgid "Site Title"
+msgstr ""
+
+#: inc/helper/options.php:412
+msgid "Site Tagline"
+msgstr ""
+
+#: inc/helper/options.php:416 inc/metabox.php:66 inc/metabox.php:78
+#: inc/metabox.php:90 inc/metabox.php:106 inc/metabox.php:115
+msgid "Default"
+msgstr ""
+
+#: inc/helper/options.php:420
+msgid "Content Title"
+msgstr ""
+
+#: inc/helper/options.php:424
+msgid "Content Body"
+msgstr ""
+
+#: inc/helper/options.php:428
+msgid "Heading Tags"
+msgstr ""
+
+#: inc/helper/options.php:432
+msgid "Navigation"
+msgstr ""
+
+#: inc/helper/options.php:834 inc/helper/options.php:872
+#: inc/helper/options.php:906 inc/helper/options.php:980
+#: inc/helper/options.php:998 inc/helper/options.php:1096
+#: inc/helper/options.php:1164 inc/helper/options.php:1190
+#: inc/helper/options.php:1218 inc/helper/options.php:1236
+msgid "Background Color"
+msgstr ""
+
+#: inc/helper/options.php:838 inc/helper/options.php:910
+#: inc/helper/options.php:928 inc/helper/options.php:992
+#: inc/helper/options.php:1006 inc/helper/options.php:1082
+#: inc/helper/options.php:1146 inc/helper/options.php:1168
+#: inc/helper/options.php:1230 inc/helper/options.php:1244
+msgid "Text Color"
+msgstr ""
+
+#: inc/helper/options.php:842 inc/helper/options.php:914
+#: inc/helper/options.php:944 inc/helper/options.php:966
+#: inc/helper/options.php:1010 inc/helper/options.php:1040
+#: inc/helper/options.php:1086 inc/helper/options.php:1150
+#: inc/helper/options.php:1172 inc/helper/options.php:1200
+#: inc/helper/options.php:1222 inc/helper/options.php:1248
+msgid "Link Color"
+msgstr ""
+
+#: inc/helper/options.php:846 inc/helper/options.php:918
+#: inc/helper/options.php:948 inc/helper/options.php:970
+#: inc/helper/options.php:1014 inc/helper/options.php:1044
+#: inc/helper/options.php:1090 inc/helper/options.php:1154
+#: inc/helper/options.php:1176 inc/helper/options.php:1204
+#: inc/helper/options.php:1226 inc/helper/options.php:1252
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:850
+msgid "Heading Color"
+msgstr ""
+
+#: inc/helper/options.php:854
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/helper/options.php:858 inc/helper/options.php:936
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/helper/options.php:862
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:866 inc/helper/options.php:940
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:876
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/helper/options.php:880
+msgid "Site Title Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:884
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/helper/options.php:888
+msgid "Search Button Background"
+msgstr ""
+
+#: inc/helper/options.php:892
+msgid "Search Button Background Hover"
+msgstr ""
+
+#: inc/helper/options.php:896
+msgid "Search Button Text"
+msgstr ""
+
+#: inc/helper/options.php:900
+msgid "Search Button Text Hover"
+msgstr ""
+
+#: inc/helper/options.php:922 inc/helper/options.php:1048
+#: inc/helper/options.php:1182
+msgid "Icon Color"
+msgstr ""
+
+#: inc/helper/options.php:932
+msgid "Button Icon Color"
+msgstr ""
+
+#: inc/helper/options.php:952 inc/helper/options.php:1208
+msgid "Link Background Color"
+msgstr ""
+
+#: inc/helper/options.php:956 inc/helper/options.php:974
+#: inc/helper/options.php:1212
+msgid "Link Background Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:962
+msgid "Main Background Color"
+msgstr ""
+
+#: inc/helper/options.php:984
+msgid "Title Link Color"
+msgstr ""
+
+#: inc/helper/options.php:988
+msgid "Title Link Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:1002 inc/helper/options.php:1134
+#: inc/helper/options.php:1240
+msgid "Title Color"
+msgstr ""
+
+#: inc/helper/options.php:1018
+msgid "Meta Link Color"
+msgstr ""
+
+#: inc/helper/options.php:1022
+msgid "Meta Link Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:1026
+msgid "Meta Icon Color"
+msgstr ""
+
+#: inc/helper/options.php:1032
+msgid "Caption Background Color"
+msgstr ""
+
+#: inc/helper/options.php:1036
+msgid "Caption Color"
+msgstr ""
+
+#: inc/helper/options.php:1052 inc/helper/options.php:1186
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:1056
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/helper/options.php:1060
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:1064
+msgid "Pager Color"
+msgstr ""
+
+#: inc/helper/options.php:1068
+msgid "Pager Active Color"
+msgstr ""
+
+#: inc/helper/options.php:1074
+msgid "Widget Area Background Color"
+msgstr ""
+
+#: inc/helper/options.php:1078
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/helper/options.php:1100
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/helper/options.php:1104
+msgid "Item Background Color"
+msgstr ""
+
+#: inc/helper/options.php:1108
+msgid "Item Title Color"
+msgstr ""
+
+#: inc/helper/options.php:1112
+msgid "Item Title Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:1116
+msgid "Item Text Color"
+msgstr ""
+
+#: inc/helper/options.php:1120
+msgid "Item Link Color"
+msgstr ""
+
+#: inc/helper/options.php:1124
+msgid "Item Link Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:1128
+msgid "News Separator Color"
+msgstr ""
+
+#: inc/helper/options.php:1138
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/helper/options.php:1142
+msgid "Title Left Border Color"
+msgstr ""
+
+#: inc/helper/options.php:1158 inc/helper/options.php:1256
+msgid "List Icon Color"
+msgstr ""
+
+#: inc/helper/options.php:1194
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/helper/options.php:1260
+msgid "Top Border Color"
+msgstr ""
+
+#: inc/helper/options.php:1284
+msgid "Basic Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1287
+msgid "Header Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1290
+msgid "Header Top Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1293
+msgid "Quick Links Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1296
+msgid "Primary Menu Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1299
+msgid "Slider Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1302
+msgid "Featured Content Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1305
+msgid "Content Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1308
+msgid "Home Page Widgets Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1311
+msgid "News Events Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1314
+msgid "Sidebar Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1317
+msgid "Breadcrumb Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1320
+msgid "Go To Top Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1323
+msgid "Pagination Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1326
+msgid "Footer Widgets Color Options"
+msgstr ""
+
+#: inc/helper/options.php:1329
+msgid "Footer Area Color Options"
+msgstr ""
+
+#: inc/hook/basic.php:218
+msgid "Recommended Image Sizes"
+msgstr ""
+
+#: inc/hook/basic.php:219
+msgid "Slider Image"
+msgstr ""
+
+#: inc/hook/custom.php:17
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hook/custom.php:163
+msgid "Menu"
+msgstr ""
+
+#: inc/hook/featured-content.php:123
+msgid "Featured Content One"
+msgstr ""
+
+#: inc/hook/featured-content.php:124 inc/hook/featured-content.php:129
+#: inc/hook/featured-content.php:134 inc/hook/featured-content.php:139
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis metus "
+"scelerisque, faucibus risus eu, luctus est. Vestibulum ante ipsum primis in "
+"faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse "
+"ultricies nunc porttitor, rutrum libero quis, gravida odio. Donec tempus "
+"dui nec nisi fringilla, vitae efficitur risus cursus. Nam ultricies congue "
+"quam, non pellentesque ipsum mollis vel."
+msgstr ""
+
+#: inc/hook/featured-content.php:128
+msgid "Featured Content Two"
+msgstr ""
+
+#: inc/hook/featured-content.php:133
+msgid "Featured Content Three"
+msgstr ""
+
+#: inc/hook/featured-content.php:138
+msgid "Featured Content Four"
+msgstr ""
+
+#: inc/metabox.php:22
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/metabox.php:64
+msgid "Choose Layout"
+msgstr ""
+
+#: inc/metabox.php:76
+msgid "Choose Image Size in Single Post/Page"
+msgstr ""
+
+#: inc/metabox.php:88
+msgid "Alignment of Image in Single Post/Page"
+msgstr ""
+
+#: inc/metabox.php:103
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/metabox.php:104
+msgid "Primary Location"
+msgstr ""
+
+#: inc/metabox.php:113
+msgid "Secondary Location"
+msgstr ""
+
+#: inc/support/footer-widgets.php:109
+msgid "Footer Widget %d"
+msgstr ""
+
+#: inc/support/woocommerce.php:134
+msgid "WooCommerce Options"
+msgstr ""
+
+#: inc/support/woocommerce.php:135
+msgid ""
+"Settings specific to WooCommerce. Note: WooCommerce Page means shop page, "
+"product page and product archive page."
+msgstr ""
+
+#: inc/support/woocommerce.php:151
+msgid "Content Layout"
+msgstr ""
+
+#: inc/support/woocommerce.php:169
+msgid ""
+"Choose Primary Sidebar for WooCommerce pages. If not selected default "
+"sidebar will be displayed."
+msgstr ""
+
+#: inc/support/woocommerce.php:187
+msgid ""
+"Choose Secondary Sidebar for WooCommerce pages. If not selected default "
+"sidebar will be displayed."
+msgstr ""
+
+#: inc/support/woocommerce.php:204
+msgid "WooCommerce Primary"
+msgstr ""
+
+#: inc/support/woocommerce.php:212
+msgid "WooCommerce Secondary"
+msgstr ""
+
+#: inc/template-tags.php:66 inc/template-tags.php:74
+#. Translators: used between list items, there is a space after the comma.
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:90 template-parts/content-page.php:38
+msgid "Edit"
+msgstr ""
+
+#: inc/widgets.php:59
+msgid "Displays social icons."
+msgstr ""
+
+#: inc/widgets.php:64 inc/widgets.php:139 inc/widgets.php:235
+#: inc/widgets.php:389 inc/widgets.php:591
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:72
+msgid "Social menu is not set. Please create menu and assign it to Social Menu."
+msgstr ""
+
+#: inc/widgets.php:78
+msgid "EH: Social"
+msgstr ""
+
+#: inc/widgets.php:134
+msgid "Call To Action Widget"
+msgstr ""
+
+#: inc/widgets.php:144
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets.php:149
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: inc/widgets.php:153
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets.php:154
+msgid "Learn more"
+msgstr ""
+
+#: inc/widgets.php:159
+msgid "Button URL:"
+msgstr ""
+
+#: inc/widgets.php:164
+msgid "Open URL in New Window"
+msgstr ""
+
+#: inc/widgets.php:169
+msgid "EH: Call To Action"
+msgstr ""
+
+#: inc/widgets.php:230
+msgid "Displays single featured Page or Post."
+msgstr ""
+
+#: inc/widgets.php:240
+msgid "Use Page/Post Title as Widget Title"
+msgstr ""
+
+#: inc/widgets.php:245
+msgid "Select Page:"
+msgstr ""
+
+#: inc/widgets.php:247
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/widgets.php:254
+msgid "Post ID:"
+msgstr ""
+
+#: inc/widgets.php:255
+msgid "Eg: 1234"
+msgstr ""
+
+#: inc/widgets.php:260
+msgid "Show Content:"
+msgstr ""
+
+#: inc/widgets.php:264
+msgid "Short"
+msgstr ""
+
+#: inc/widgets.php:265
+msgid "Full"
+msgstr ""
+
+#: inc/widgets.php:269 inc/widgets.php:407 inc/widgets.php:615
+msgid "Excerpt Length:"
+msgstr ""
+
+#: inc/widgets.php:270
+msgid "Applies when Short is selected in Content option."
+msgstr ""
+
+#: inc/widgets.php:278
+msgid "Featured Image:"
+msgstr ""
+
+#: inc/widgets.php:284
+msgid "Image Alignment:"
+msgstr ""
+
+#: inc/widgets.php:291
+msgid "EH: Featured Page"
+msgstr ""
+
+#: inc/widgets.php:385
+msgid "Displays Testimonials as a Slider."
+msgstr ""
+
+#: inc/widgets.php:394 inc/widgets.php:596
+msgid "Select Category:"
+msgstr ""
+
+#: inc/widgets.php:396 inc/widgets.php:598
+msgid "All Categories"
+msgstr ""
+
+#: inc/widgets.php:399 inc/widgets.php:601
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widgets.php:408 inc/widgets.php:616
+msgid "in words"
+msgstr ""
+
+#: inc/widgets.php:417
+msgid "SLIDER OPTIONS"
+msgstr ""
+
+#: inc/widgets.php:421
+msgid "Transition Delay:"
+msgstr ""
+
+#: inc/widgets.php:422
+msgid "in seconds"
+msgstr ""
+
+#: inc/widgets.php:437
+msgid "EH: Testimonial Slider"
+msgstr ""
+
+#: inc/widgets.php:586
+msgid "Displays teams."
+msgstr ""
+
+#: inc/widgets.php:609
+msgid "Number of Columns:"
+msgstr ""
+
+#: inc/widgets.php:625
+msgid "Disable Excerpt"
+msgstr ""
+
+#: inc/widgets.php:631
+msgid "EH: Teams"
+msgstr ""
+
+#: lib/widget-base/class-widget-base.php:281
+msgid "Upload"
+msgstr ""
+
+#: lib/widget-base/class-widget-base.php:281
+msgid "Select Image"
+msgstr ""
+
+#: lib/widget-base/class-widget-base.php:281
+msgid "Choose Image"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/author-bio.php:17
+msgid "Written by"
+msgstr ""
+
+#: template-parts/author-bio.php:22
+msgid "Visit Website"
+msgstr ""
+
+#: template-parts/author-bio.php:43
+msgid "Other posts by author"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:29 template-parts/content-single.php:33
+#: template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:43
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: updater/theme-updater.php:29
+msgid "Theme License"
+msgstr ""
+
+#: updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: updater/theme-updater.php:35 updater/theme-updater.php:47
+msgid "License status is unknown."
+msgstr ""
+
+#: updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: updater/theme-updater.php:39
+msgid "Expires %s."
+msgstr ""
+
+#: updater/theme-updater.php:40
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: updater/theme-updater.php:41
+msgid "License key expired %s."
+msgstr ""
+
+#: updater/theme-updater.php:42
+msgid "License key has expired."
+msgstr ""
+
+#: updater/theme-updater.php:43
+msgid "License keys do not match."
+msgstr ""
+
+#: updater/theme-updater.php:44
+msgid "License is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:45
+msgid "License key is disabled."
+msgstr ""
+
+#: updater/theme-updater.php:46
+msgid "Site is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:48
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: updater/theme-updater.php:49
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4$s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: updater/theme-updater.php:50
+msgid ""
+"%1$s License Key has not been activated, so the theme is inactive. "
+"%2$sClick here%3$s to activate the license key and the theme."
+msgstr ""
+
+#: updater/theme-updater.php:51
+msgid "Get API key from %s."
+msgstr ""
+
+#: updater/theme-updater.php:52
+msgid "Theme Palace"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Education Hub Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themepalace.com/downloads/education-hub-pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Education Hub Pro is a clean and elegant WordPress education theme with "
+"simplistic but unique look and feel. This theme is best suited for college, "
+"school, university and other educational websites. But this theme is not "
+"binded to be fit for educational websites only. This is also flexible "
+"enough to be used for business and corporate websites. Theme is highly "
+"customizable with layout settings and several other theme options which can "
+"be customized by using Theme Options panel based on powerful Customizer "
+"API. Education Hub helps you to easily and intuitively create professional "
+"and appealing educational websites. Official Support Forum: "
+"https://themepalace.com/support-forum/ Full Demo: "
+"https://wenthemes.com/theme-demos/?demo=education-hub-pro"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WEN Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wenthemes.com/"
+msgstr ""
+
+#: comments.php:33
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/options.php:229
+msgctxt "Alignment"
+msgid "None"
+msgstr ""
+
+#: inc/helper/options.php:230
+msgctxt "Alignment"
+msgid "Left"
+msgstr ""
+
+#: inc/helper/options.php:231
+msgctxt "Alignment"
+msgid "Center"
+msgstr ""
+
+#: inc/helper/options.php:232
+msgctxt "Alignment"
+msgid "Right"
+msgstr ""
+
+#: inc/helper/options.php:252
+msgctxt "Transition Effect"
+msgid "fade"
+msgstr ""
+
+#: inc/helper/options.php:253
+msgctxt "Transition Effect"
+msgid "fadeout"
+msgstr ""
+
+#: inc/helper/options.php:254
+msgctxt "Transition Effect"
+msgid "none"
+msgstr ""
+
+#: inc/helper/options.php:255
+msgctxt "Transition Effect"
+msgid "scrollHorz"
+msgstr ""
+
+#: inc/hook/basic.php:24 inc/hook/basic.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/hook/basic.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/widgets.php:250
+msgctxt "Featured Page Widget"
+msgid "OR"
+msgstr ""
+
+#: lib/widget-base/class-widget-base.php:292
+msgctxt "Remove Button"
+msgid "X"
+msgstr ""
